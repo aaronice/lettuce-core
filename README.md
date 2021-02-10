@@ -113,7 +113,7 @@ set.get() == "OK"
 get.get() == "value"
 ```
 
-See [Asynchronous API](https://github.com/lettuce-io/lettuce-core/wiki/Asynchronous-API-%284.0%29) for further details.
+See [Asynchronous API](https://github.com/lettuce-io/lettuce-core/wiki/Asynchronous-API) for further details.
 
 Reactive API
 ------------------------
